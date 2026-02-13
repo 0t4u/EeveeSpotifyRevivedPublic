@@ -2,9 +2,9 @@
 
 # EeveeSpotify
 
-**Updated and maintained by Skye - Current Version 9.1.12**
+**Updated and maintained by Skye - Current Version 9.1.22**
 
-**Last updated 1/15/26**
+**Last updated 2/13/26**
 
 This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.
 
@@ -13,12 +13,12 @@ This tweak makes Spotify think you have a Premium subscription, granting free li
 
 ## Custom Lyrics Support
 
-**Spotify 9.1.12** - Full custom lyrics functionality is available with the following provider:
+**Spotify 9.1.22** - Full custom lyrics functionality is available with the following provider:
 
 - **Musixmatch** ✅ (Currently enabled)
 
 > [!NOTE]
-> Other providers (Genius, LRCLIB, PetitLyrics) are available in the code but disabled  in build.*
+> Other providers (Genius, LRCLIB, PetitLyrics) are available in the code but disabled in build.*
 
 ## How to build an EeveeSpotify IPA using Github actions
 > [!NOTE]
